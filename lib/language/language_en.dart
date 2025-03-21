@@ -38,7 +38,7 @@ class LanguageEn extends BaseLanguage {
   String get lblNewUser => 'New User?';
 
   @override
-  String get lblHome => 'Home';
+  String get lblHome => 'Workout';
 
   @override
   String get lblDiet => 'Diet';
